@@ -161,7 +161,6 @@ It allows the user to:
 
 Alerts are displayed in a list and **color-coded by event type**.
 
-Dashboard Screenshot
 
 ---
 
@@ -181,7 +180,6 @@ All monitored paths are stored in:
 paths.json
 ```
 
-Paths Page Screenshot
 
 ---
 
@@ -195,7 +193,6 @@ Potential future features include:
 * Log export options
 * Notification settings
 
-Settings Page Screenshot
 
 ---
 
